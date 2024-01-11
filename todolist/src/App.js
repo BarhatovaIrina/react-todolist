@@ -1,9 +1,10 @@
 // import logo from './logo.svg';
 
 import './App.css';
-import About from './components/About/About';
+// import About from './components/About/About';
 import Footer from './components/Footer/Footer';
 import Header from './components/Header/Header';
+import TodoList from './components/TodoList/TodoList';
 
 function App() {
   return (
@@ -16,7 +17,9 @@ function App() {
 
       </header> */}
       <Header></Header>
-      <About></About>
+      {/* <About></About> */}
+
+      <TodoList></TodoList>
       <Footer></Footer>
     </div>
   );
