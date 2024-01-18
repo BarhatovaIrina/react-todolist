@@ -1,0 +1,7 @@
+.todoList {
+    width: 50%;
+    min-width: 200px;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 10px;
+}

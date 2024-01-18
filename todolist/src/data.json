@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "do homework!!!! important!",
+        "isDone": false,
+        "type": "edu"
+    },
+    {
+        "id": 2,
+        "name": "buy milk",
+        "isDone": true,
+        "type": "home"
+    },
+    {
+        "id": 3,
+        "name": "go to hakaton)",
+        "isDone": false,
+        "type": "edu"
+    },
+    {
+        "id": 4,
+        "name": "go to seminar)",
+        "isDone": false,
+        "type": "work"
+    }
+]
